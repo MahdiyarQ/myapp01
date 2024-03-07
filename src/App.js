@@ -5,6 +5,9 @@ import {useState} from "react";
 
 function App() {
 
+
+<Component1 age=10 weight="" />
+
   const [text1, setText1]=useState("");
   const [text2, setText2]=useState("");
   const [testResult, setTestResult]=useState(true);
